@@ -1,0 +1,90 @@
+The total number of paragraphs processed: 31103
+The total number of unique words observed: 12780
+The total number of words is: 784893
+
+1  the- cf: 59143 and numOccurs: 23168
+2  and- cf: 52095 and numOccurs: 23855
+3  of- cf: 34517 and numOccurs: 18172
+4  to- cf: 13771 and numOccurs: 9794
+5  that- cf: 13575 and numOccurs: 10283
+6  in- cf: 12770 and numOccurs: 9624
+7  he- cf: 10634 and numOccurs: 7671
+8  unto- cf: 9257 and numOccurs: 7572
+9  for- cf: 9170 and numOccurs: 7212
+10  shall- cf: 9105 and numOccurs: 5669
+11  i- cf: 8879 and numOccurs: 6006
+12  a- cf: 8816 and numOccurs: 6594
+13  his- cf: 8151 and numOccurs: 5775
+14  they- cf: 7591 and numOccurs: 5638
+15  is- cf: 7181 and numOccurs: 5628
+16  jehovah- cf: 6775 and numOccurs: 5756
+17  him- cf: 6609 and numOccurs: 4974
+18  not- cf: 6573 and numOccurs: 5571
+19  be- cf: 6470 and numOccurs: 5104
+20  them- cf: 6407 and numOccurs: 4951
+21  it- cf: 6163 and numOccurs: 4759
+22  with- cf: 5990 and numOccurs: 4837
+23  all- cf: 5596 and numOccurs: 4651
+24  thou- cf: 5513 and numOccurs: 3889
+25  thy- cf: 4956 and numOccurs: 3241
+26  my- cf: 4497 and numOccurs: 3164
+27  was- cf: 4467 and numOccurs: 3618
+28  will- cf: 4115 and numOccurs: 3021
+29  me- cf: 4086 and numOccurs: 3069
+30  god- cf: 4077 and numOccurs: 3553
+100  therefore- cf: 1149 and numOccurs: 1131
+500  zion- cf: 161 and numOccurs: 161
+1000  syrians- cf: 64 and numOccurs: 57
+
+Number of words that occur in exactly one document: 4042
+
+the:59143
+and:52095
+of:34517
+to:13771
+that:13575
+in:12770
+he:10634
+unto:9257
+for:9170
+shall:9105
+i:8879
+a:8816
+his:8151
+they:7591
+is:7181
+jehovah:6775
+him:6609
+not:6573
+be:6470
+them:6407
+it:6163
+with:5990
+all:5596
+thou:5513
+thy:4956
+my:4497
+was:4467
+will:4115
+me:4086
+god:4077
+ye:4017
+but:3993
+their:3920
+said:3910
+from:3862
+thee:3843
+have:3683
+as:3614
+are:3228
+which:2962
+upon:2777
+out:2746
+were:2740
+this:2714
+when:2644
+israel:2571
+you:2562
+man:2540
+up:2474
+by:2421
